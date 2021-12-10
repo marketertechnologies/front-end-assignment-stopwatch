@@ -4,7 +4,7 @@ Fork this repository. It needs to stay on Github, publicly available. If you wan
 ## Development
 Install project dependencies with `npm install` command. After that is completed, you can start a development server with `npm run start`.
 
-## Requirements
+## Task requirements
 Create a simple stopwatch with options to play, pause and reset the displayed number. When running number should be updated by 1 on every second.
 
 #### Additional functionality:
