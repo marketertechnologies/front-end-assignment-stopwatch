@@ -12,7 +12,7 @@ Create a simple stopwatch with options to play, pause and reset the displayed nu
 * Reset the counter when the number of seconds is bigger than 30.
 
 ## Design
-We provide an example [design file](./design.png) that you should use; you can also find it on [figma](https://www.figma.com/file/MBN3Cw2SiWyabNmN9wN3jk/quick-front-end-assignment). Please make the UI pixel perfect.
+We provide an [design file](./design.png) that you should use; you can also find it on [figma](https://www.figma.com/file/MBN3Cw2SiWyabNmN9wN3jk/quick-front-end-assignment). Please make the UI pixel perfect.
 
 The font is Roboto, and you can get it from [here](https://fonts.google.com/specimen/Roboto).
 
