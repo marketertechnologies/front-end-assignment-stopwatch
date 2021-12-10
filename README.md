@@ -8,7 +8,7 @@ Install project dependencies with `npm install` command. After that is completed
 Create a simple stopwatch with options to play, pause and reset the counter. When running number should be updated by 1 on every second.
 
 #### Additional functionality:
-* Keep the pause button disabled while the counter is below 10s
+* Keep the pause button disabled while the counter is below 10s.
 * Reset the counter when the number of seconds exceeds 30.
 
 ## Design
